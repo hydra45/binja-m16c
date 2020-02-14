@@ -4,7 +4,7 @@
   "type": ["architecture"],
   "api": ["python3"],
   "description": "A plugin providing the Renesas M16C architecture.",
-  "longdescription": "The Renesas M16C plugin provides the corresponding architecture for Binary Ninja.\r\n\r\n## Features\r\n\r\nThis plugin decodes all M16C instructions and provides control flow analysis. It also detects with a high degree of confidence, and relocates raw binary M16C ROM dumps.\r\n\r\nThis plugin does not currently provide lifting or SFR definitions.\r\n\r\n![Picture of IL display](https://raw.githubusercontent.com/whitequark/binja-m16c/master/screenshot.png =400x400)\r\n\r\n## License\r\n\r\n[0-clause BSD](https://github.com/whitequark/binja-m16c/blob/master/LICENSE-0BSD.txt)\r\n",
+  "longdescription": "The Renesas M16C plugin provides the corresponding architecture for Binary Ninja.\r\n\r\n## Features\r\n\r\nThis plugin decodes all M16C instructions and provides control flow analysis. It also detects with a high degree of confidence, and relocates raw binary M16C ROM dumps.\r\n\r\nThis plugin does not currently provide lifting or SFR definitions.\r\n\r\n![Picture of IL display](https://raw.githubusercontent.com/whitequark/binja-m16c/master/screenshot.png =400x400)\r\n\r\n![Picture of Architecture added to Architectures](https://raw.githubusercontent.com/hydra45/binja-m16c/Updated-Readme/M16C%20in%20Architectures.png)\r\n## License\r\n\r\n[0-clause BSD](https://github.com/whitequark/binja-m16c/blob/master/LICENSE-0BSD.txt)\r\n",
   "version": "0.1",
   "author": "whitequark",
   "minimumbinaryninjaversion": 1921,
